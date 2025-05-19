@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ea5a212.css",
+    "main.js": "/static/js/main.a1132a83.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/home1.png": "/static/media/home1.76c2eac3561943fa4369.png",
+    "static/media/about.png": "/static/media/about.9a5fabe5a9b5b6c5fdcc.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.f33921cb33308cfdc7b8.jpg",
+    "static/media/my_aftar.png": "/static/media/my_aftar.b8f4c088d2c01b54fa6a.png",
+    "static/media/rahamall.png": "/static/media/rahamall.bb266eace728e4b94d94.png",
+    "static/media/bussapp.png": "/static/media/bussapp.3eef98a7342811217fa1.png",
+    "static/media/tab.png": "/static/media/tab.e39b2c8de6884a01b65b.png",
+    "static/media/Hanan_Al_Habsi_CV_Pro.pdf": "/static/media/Hanan_Al_Habsi_CV_Pro.6793f10f697a9a9eb0c0.pdf",
+    "static/media/jira.png": "/static/media/jira.0f67d5834827ce6f9d71.png",
+    "static/media/canva-icon.png": "/static/media/canva-icon.7b5de676615dc0f98f98.png",
+    "static/media/cxdash.png": "/static/media/cxdash.c01535e620772c2d1431.png",
+    "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/logo.png": "/static/media/logo.56c0a9d7077e17ee6604.png",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.1ea5a212.css.map": "/static/css/main.1ea5a212.css.map",
+    "main.a1132a83.js.map": "/static/js/main.a1132a83.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ea5a212.css",
+    "static/js/main.a1132a83.js"
+  ]
+}
